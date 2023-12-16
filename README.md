@@ -1,7 +1,6 @@
 -  Hi, I’m Evan 
 - I’m interested in AI, automation, front-end development, back-end development, and advanced mathematics 
 - I’m currently learning Software Engineering @ SNHU
-- I’m looking to collaborate on not sure yet
 - How to reach me emaliasnow05@gmail.com
 
 <!---
